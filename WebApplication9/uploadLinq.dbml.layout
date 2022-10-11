@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="uploadLinq">
+  <DataContextMoniker Name="/uploadLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="9f9858d3-22a8-4778-a1b7-1a8e91152880" absoluteBounds="1.75, 1.375, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/uploadLinqDataContext/upload" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9fd55176-0632-4963-be83-e7b101f14987" absoluteBounds="1.7650000000000001, 1.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
